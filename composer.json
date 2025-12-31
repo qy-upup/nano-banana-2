@@ -1,0 +1,14 @@
+{
+    "name": "qy-upup/nano-banana-2",
+    "description": "Professional PHP integration for nano-banana-2",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "nanobanana2\\\\": "src/"
+        }
+    }
+}
